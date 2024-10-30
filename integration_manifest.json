@@ -1,0 +1,10 @@
+{
+    "name": "Community Channel",
+    "id": "my-community-channel-abc123",
+    "version": "1.0.0",
+    "urls": {
+      "admin_ui": "https://zendesk-python-post1.glitch.me/channels/community/admin_ui",
+      "pull_url": "https://zendesk-python-post1.glitch.me/channels/community/pull",
+      "channelback_url": "https://zendesk-python-post1.glitch.me/channels/community/channelback"
+    }
+  }
